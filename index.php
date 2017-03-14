@@ -12,7 +12,7 @@
 <p> What would you like to do?<p/>
 <ul>
     <li><a href="insertSuperhero.php"> Insert a superhero</a></li>
-    <li><a href="displaySuperhero.php"> Display all superhero</a></li>
+    <li><a href="displayhuperhero.html"> Display all superhero</a></li>
     <li><a href="battle.php"> Insert a battle</a></li>
     <li><a href="displayBattles.php"> Display all battle</a></li>
     <ul>
